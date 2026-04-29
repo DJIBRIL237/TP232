@@ -1,0 +1,5 @@
+{
+  "name": "MarketAnalyst",
+  "description": "Application d'analyse de données marketing avec génération de code R.",
+  "requestFramePermissions": []
+}
